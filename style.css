@@ -1,0 +1,31 @@
+/* 
+selector{
+    propiedad; valor;
+    propiedad; valor;
+*/
+
+body{
+    /* color del fondo */
+    background-color: #d1d3cf;
+    /* color de texto */
+    color: #757081;
+    font-family: 'Times New Roman', Times, serif ;
+}
+
+h1{
+    color: #39324b;
+}
+
+h3{
+    color: #6c4f70;
+}
+
+a{
+    color: #6b82a8;
+}
+
+img{
+    /* width:ancho//height:altura */
+    width: 600px;
+}
+/* class - para vincular a una sola imagen */
