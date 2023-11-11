@@ -10,14 +10,17 @@ body{
     /* color de texto */
     color: #757081;
     font-family: 'Times New Roman', Times, serif ;
+    text-align: justify;
 }
 
 h1{
     color: #39324b;
+    text-align: center;
 }
 
 h3{
     color: #6c4f70;
+    text-align: left;
 }
 
 a{
@@ -29,3 +32,8 @@ img{
     width: 600px;
 }
 /* class - para vincular a una sola imagen */
+
+.button-send{
+    border-color: #6c4f70;
+    color: #6c4f70;
+}
